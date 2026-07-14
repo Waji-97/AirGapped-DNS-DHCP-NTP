@@ -1,4 +1,4 @@
-# Air-Gapped DNS + DHCP + NTP Installation Manual
+# Air-Gapped DNS + DHCP + NTP 
 
 Install **DNS + DHCP** (via `dnsmasq`) and **NTP** (via `chrony`) on an offline
 Ubuntu server, using packages downloaded on a separate online machine.
